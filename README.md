@@ -5,7 +5,7 @@
 )](https://developer.apple.com/swift)
 [![License](http://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat
 )](http://mit-license.org)
-[![Issues](https://img.shields.io/github/issues/dekatotoro/SlideMenuControllerSwift.svg?style=flat
+[![Issues](https://img.shields.io/github/issues/zahedul/ExampleSlideMenuControllerSwift.svg?style=flat
 )](https://github.com/zahedul/ExampleSlideMenuControllerSwift/issues?state=open)
 
 Example of SlideMenuControllerSwift package with minimal setup
